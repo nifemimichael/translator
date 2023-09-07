@@ -30,7 +30,7 @@ const languages = {
     "gl-ES": "Galician",
     "gu-IN": "Gujarati",
     "ha-NE": "Hausa",
-    "yr-NE": "Yoruba",
+    "yo-NE": "Yoruba",
     "ib-NE": "Igbo",
     "he-IL": "Hebrew",
     "hi-IN": "Hindi",
