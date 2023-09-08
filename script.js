@@ -31,7 +31,7 @@ const languages = {
     "gu-IN": "Gujarati",
     "ha-NE": "Hausa",
     "yo-NE": "Yoruba",
-    "ibo-NE": "Igbo",
+    "ig-NE": "Igbo",
     "he-IL": "Hebrew",
     "hi-IN": "Hindi",
     "hr-HR": "Croatian",
